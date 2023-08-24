@@ -7,7 +7,7 @@
 
 ## Hello World
 This is a simple Hello World program which will show an app window with the words "Hello World!" 
- ```bash
+ ```nzym
 Nzym App;
 Raw Hello World!;
 ```
