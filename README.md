@@ -8,7 +8,7 @@
 ## Hello World
 This is a simple Hello World program which will show an app window with the words "Hello World!" 
  ```nzym
-Nzym App;
+Nzym Start;
 Raw Hello World!;
 ```
 
