@@ -7,12 +7,9 @@
 
 ## Hello World
 This is a simple Hello World program which will show an app window with the words "Hello World!" 
- ```bash
-Package demoApp
-Master App
-Style desktop console
-Raw "Hello World!"
-App.End
+ ```nzym
+Nzym App;
+Raw Hello World!;
 ```
 
 ## Installation
