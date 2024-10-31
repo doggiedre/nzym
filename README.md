@@ -9,7 +9,7 @@
 This is a simple Hello World program which will show an app window with the words "Hello World!" 
  ```nzym
 Nzym Start;
-Raw Hello World!;
+Print Hello World!;
 ```
 
 ## Installation
